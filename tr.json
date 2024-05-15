@@ -92,7 +92,7 @@
 		"notification": {
 			"name": "İstek Listesi Bildirimi",
 			"info": "İstek listenizdeki ürün mağazaya geldiğinde bir bildirim alın.",
-			"hit": "{{Displayname}} şu anda mağazanda!",
+			"hit": "{{displayname}} şu anda mağazanda!",
 			"no_hit": "Bugün şansınız yok: Dükkanınızda istek listesinde yer alan bir kaplama yok.",
 			"error": "Mağazanızı kontrol ederken bir hata oluştu",
 			"enabled": "Bildirimler etkinleştirildi",
